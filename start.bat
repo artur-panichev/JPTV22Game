@@ -1,0 +1,1 @@
+start "aaa" java -Xms128m -Xmx128m -jar ./dist/JPTV22Game.jar
